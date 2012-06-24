@@ -26,4 +26,5 @@ The default template looks like this, the TITLE, DATE, AUTHOR, CATEGORIES and TA
     tags:
     - TAGS
 
+This code is based on code from Calus Witt which can be found [here](http://clauswitt.com/A-Simple-Create-New-Blogpost-Script.html)
     
